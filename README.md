@@ -54,3 +54,5 @@ Then, client will ask you to choose the features you want to use first.
 * audio - audio streaming
 
 After that, you can just follow the command show in terminal and enjoy these features
+
+demo: https://youtu.be/q8MDz0_sJGI
