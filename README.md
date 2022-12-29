@@ -25,6 +25,7 @@ gcc server.c -o server
 linux1.csie.ntu.edu.tw:9971
 http://140.112.30.32:9971/
 ```
+demo: https://youtu.be/81Ikhef1pNI
 
 ## Phase 2
 ### Environment Requirement
